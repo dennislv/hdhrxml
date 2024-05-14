@@ -2,7 +2,7 @@
 error_reporting(E_ALL ^ E_NOTICE);  
 //--------------------------
 $hdhrAddress = 'hdhomerun.local';
-$hdhrAddress = '192.168.0.254';
+//$hdhrAddress = '192.168.0.254';
 $hdhrOutXML  = '/var/www/html/xmltv/hdhomerun.xml';
 //--------------------------
 
